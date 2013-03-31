@@ -1,7 +1,16 @@
+概要
+=====
+
+キャラクターベースではなく、Webベースでpukiwikiインストールしたかった
+echo hello world は関係ない
+
 使い方
 =====
 
-ubuntuの場合はwwwに置く
+環境はubuntuとする
+apacheとPHPに必要な物をインストールしておく
+
+wwwに置く
 
 chmod -R 777 /var/www/
 
@@ -13,4 +22,5 @@ chmod -R 777 /var/www/
 
 
 
-echo.php は関係ない
+hello.php は関係ない
+使い方がよくわかってない
