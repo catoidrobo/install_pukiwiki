@@ -3,7 +3,7 @@
 
 ubuntuの場合はwwwに置く
 
-chmod -R /var/www/
+chmod -R 777 /var/www/
 
 ブラウザで http://localhost/install_pukiwiki/ にアクセス
 
