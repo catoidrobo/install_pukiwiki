@@ -1,7 +1,8 @@
 概要
 =====
 
-キャラクターベースではなく、Webベースでpukiwikiインストールしたかった
+キャラクターベースではなく、Webベースでpukiwikiをインストールしたかった
+
 echo hello world は関係ない
 
 使い方
@@ -23,4 +24,5 @@ chmod -R 777 /var/www/
 
 
 hello.php は関係ない
+
 使い方がよくわかってない
