@@ -1,6 +1,12 @@
-hello
+使い方
 =====
 
-echo hello world
+ubuntuの場合はwwwに置く
 
-あああ
+chmod -R /var/www/
+
+ブラウザで http://localhost/install_pukiwiki/ にアクセス
+
+ユーザ名とパスワードを入力する
+
+多分これで動く
