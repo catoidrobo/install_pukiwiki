@@ -3,7 +3,6 @@
 
 キャラクターベースではなく、Webベースでpukiwikiをインストールしたかった
 
-echo hello world は関係ない
 
 使い方
 =====
